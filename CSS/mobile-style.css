@@ -1,0 +1,113 @@
+body {
+    font-size: 12px;
+    max-width: 100vw;
+    min-height:100%;
+}
+
+#header {
+    padding: 0;
+    margin: 0;
+    background: url(../images/bg-header-mobile.png) no-repeat;
+    background-size: 100%;
+}
+
+.header__logo {
+    width: 100%;
+}
+
+.header__logo img {
+    width: 100px;
+}
+
+.header__content--title {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.header__content--text {
+    font-size: 1rem;
+    padding:1rem;
+}
+.showcase,
+.btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem;
+}
+
+#introduction {
+    width: 100%;
+    padding: 0;
+}
+
+section {
+    margin-top: 3rem;
+}
+
+section h3 {
+    font-size: 2rem;
+    padding:1rem;
+}
+
+section h4{
+    font-size: 1.5rem;
+}
+
+section p {
+    font-size: 0.9rem;
+    padding: 1rem;
+}
+
+.showcase {
+    margin-top: 2rem;
+}
+
+.showcase__list li {
+    margin-top: 2rem;
+}
+
+.computer-img {
+    margin: 1rem auto;
+}
+
+.showcase__list {
+    text-align: center;
+    padding: 0;
+}
+
+.showcase-tools img {
+    margin-bottom: 1rem;
+    margin-top: 1.5rem;
+}
+
+.brand img {
+    margin: 1.3rem;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 20rem;
+}
+
+.footer-logo {
+    width: 50px;
+    margin-bottom: 2rem;
+}
+
+.contact {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact ul{
+    margin:0;
+}
+.contact li{
+    text-align:center;
+}
