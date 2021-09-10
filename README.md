@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
--   [Live site URL ](https://your-live-site-url.com)
+-   [Live site URL ](https://tathanhdat.github.io/Clipboard-landing-page/)
 
 ### Built with
 
